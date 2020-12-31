@@ -29,5 +29,4 @@ Binding diye bir değişken oluşturuyoruz ve o anki güncel aktivitemiz neyse o
 Bu tanımlamarı yaptıktan sonra ilgili çağrımlarda kullanacağımız kod;
 binding.textView.text="Merhaba Bu yazı View Binding \n kullanımı yapılarak yazıldı"
 Bu şekilde tanımlayarak kodumuz içerisinde view görünümle ilgili işlemleri Android View Binding kullarak yapabilir.
-İlgili projenin kodları;
-https://github.com/Bahadireray/AndroidViewBinding-
+
